@@ -3,6 +3,7 @@
 Bienvenue sur mon portfolio GitHub. Vous y trouverez une sélection de projets et de travaux pratiques réalisés seul ou en collaboration dans les domaines de la Data Science et du Traitement d'Images. Ce portfolio reflète mon parcours, mes progrès, ainsi que les améliorations à venir, comme vous pourrez le découvrir en explorant les projets ci-dessous.
 
 ## Projets
+- [ND Project for image processing, analysis, and segmentation](https://github.com/Farius0/ND_Project-.git)
 - [Estimation et caractérisation du mouvement en imagerie médicale](https://github.com/Farius0/Analyse_Imagerie_Medicale.git)
 - [Modèles de machine learning : réseaux de neurones, régression, clustering (UB) ](https://github.com/Farius0/Machine_Deep_Learning.git)
 - [Travaux pratiques en Traitement d'images et de signaux variés (UB)](https://github.com/Farius0/TPs_Image_Signal.git)
