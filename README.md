@@ -11,3 +11,6 @@ Bienvenue sur mon portfolio GitHub. Vous y trouverez une sélection de projets e
 - [Analyse des données sur les joueurs de FIFA 15-22](https://github.com/Farius0/FiFA-2015_2022.git)
 - [Formations en ligne ( Ex : Développeur Python Udemy )](https://github.com/Farius0/Formation_Ligne.git)
 - [Mémoires de Licence et de Master à l'Ecole Nationale d'Economie Appliquée et de Management (ENEAM)](https://github.com/Farius0/Memoires.git)
+
+## Autres Informations
+- [Lien LinkedIn](https://linkedin.com/in/farius-a-716b69244)
