@@ -44,13 +44,19 @@ Exploration de différents modèles supervisés et non supervisés :
 
 ---
 
-## Projets académiques et formations
+## Projets académiques
 
 - [Travaux pratiques en traitement d’images et signaux (UB)](https://github.com/Farius0/TPs_Image_Signal.git)  
 - [Optimisation convexe et transport optimal (UB)](https://github.com/Farius0/Optimisations.git)  
-- [Formations en ligne – Python, SQL, Full Stack, Excel, Power BI](https://github.com/Farius0/Formation_Ligne.git)  
 - [Analyse de données FIFA 15–22](https://github.com/Farius0/FiFA-2015_2022.git)  
 - [Mémoires de Licence et de Master (ENEAM)](https://github.com/Farius0/Memoires.git)  
+
+---
+
+## Formations et travaux associés
+
+- [Formations en ligne – Python, SQL, Full Stack, Excel, Power BI](https://github.com/Farius0/Formation_Ligne.git)  
+  *(contient des notebooks pratiques, des rapports BI et divers projets réalisés dans le cadre de cours en ligne)*  
 
 ---
 
