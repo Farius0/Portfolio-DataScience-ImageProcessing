@@ -62,7 +62,7 @@ Exploration de différents modèles supervisés et non supervisés :
 
 ## Documents
 - [CV](docs/CV_FA.pdf)  
-- [Lettre de motivation](docs/LA_Farius_Aina.pdf)  
+- [Lettre de motivation](docs/LA_FA.pdf)  
 
 ---
 
