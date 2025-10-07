@@ -67,5 +67,6 @@ Exploration de différents modèles supervisés et non supervisés :
 ---
 
 ## Contact
+- Site Professionnel : [Lien](https://fariusaina.com)
 - LinkedIn : [Farius Aina](https://linkedin.com/in/farius-a-716b69244)  
 - Email : ainau***@gmail.com  
