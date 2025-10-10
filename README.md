@@ -56,7 +56,14 @@ Exploration de différents modèles supervisés et non supervisés :
 ## Formations et travaux associés
 
 - [Formations en ligne – Python, SQL, Full Stack, Excel, Power BI](https://github.com/Farius0/Formation_Ligne.git)  
-  *(contient des notebooks pratiques, des rapports BI et divers projets réalisés dans le cadre de cours en ligne)*  
+  *(contient des notebooks pratiques, des rapports BI et divers projets réalisés dans le cadre de cours en ligne)*
+
+### Quelques exemples
+
+- [Site Recette de gateau au chocolat](https://farius0.github.io/Formation_Ligne/)
+![Gateau au chocolocate](assets/cake.avif)    
+- [Site Pizza Menu (via django)](https://fariusaina.pythonanywhere.com/)
+![Pizza](assets/pizza.avif)  
 
 ---
 
