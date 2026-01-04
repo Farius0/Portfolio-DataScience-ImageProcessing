@@ -39,7 +39,7 @@ illustrating my technical skills, methodological rigor, and continuous learning 
 
 ### Data Science & Analytics
 - Google Data Analytics Professional Certificate
-- Coursera – Data Science & Machine Learning Specialization
+- Data Science & Machine Learning Specialization
 
 ### Cloud, BI & Data Platforms
 - Microsoft Azure AZ-900 (Fundamentals)
