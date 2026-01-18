@@ -54,7 +54,8 @@ Verified credentials and official transcripts:
 - Coursera: https://www.coursera.org/account/accomplishments/specialization/6VYEFQ18FBXP  
 - Google Skills: https://www.skills.google/public_profiles/76dbfaca-d7cf-48d5-bc8e-22374b0538f6  
 - Microsoft Learn: https://learn.microsoft.com/fr-fr/users/fariusaina-8780/transcript/dw2g1i62wmn5rn2  
-- Credly: https://www.credly.com/users/farius-aina  
+- Credly: https://www.credly.com/users/farius-aina
+- More: https://github.com/Farius0/Formation_Ligne/tree/main/Certificates%20and%20Course%20Completions
 
 ---
 
