@@ -109,6 +109,10 @@ Exploration of supervised and unsupervised machine learning models:
 ![Formation](assets/formation.png)
 
 Examples:
+
+- [Weather Dashboard – Climate & Air Quality Monitoring:](https://github.com/Farius0/Formation_Ligne/tree/main/Power%20BI/Weather%20Project)
+![Weather Dashboard](assets/weather_dashboard.png)  
+
 - [Recipe website (static web project):](https://farius0.github.io/Formation_Ligne/)
 ![Chocolocate cake](assets/cake.jpg)   
 
