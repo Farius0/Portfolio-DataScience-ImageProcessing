@@ -110,6 +110,9 @@ Exploration of supervised and unsupervised machine learning models:
 
 Examples:
 
+- [Hospital Dashboard - Hospital Analysis Dashboard:](https://github.com/Farius0/Formation_Ligne/tree/main/Power%20BI)
+![Hospital Dashboard](assets/hospital_dashboard_3.gif) 
+
 - [Weather Dashboard – Climate & Air Quality Monitoring:](https://github.com/Farius0/Formation_Ligne/tree/main/Power%20BI/Weather%20Project)
 ![Weather Dashboard](assets/weather_dashboard.png)  
 
