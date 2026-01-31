@@ -2,12 +2,13 @@
 
 Welcome to my GitHub portfolio.
 
-I am a Data Scientist with expertise in data analysis, machine learning, 
-and image processing, applied to diverse domains including medical imaging, 
-industrial data, and applied analytics.
+I explore data from multiple angles, at the intersection of analytics, applied machine learning, and image processing.
 
-This portfolio showcases a selection of academic, professional, and personal projects 
-illustrating my technical skills, methodological rigor, and continuous learning process.
+What drives me is turning complex data into structured, usable insights, whether in public-sector analytics, industrial innovation, or applied research contexts.
+
+This portfolio brings together academic, professional, and personal projects that reflect how I approach data: understanding it deeply, experimenting thoughtfully, and building solutions that are robust, documented, and reusable.
+
+Rather than focusing on a single role or title, this space reflects my curiosity, my technical craftsmanship, and my ongoing journey through data-driven problem solving.
 
 ---
 
@@ -121,11 +122,6 @@ Examples:
 
 - [Pizza menu web application (Django):](https://fariusaina.pythonanywhere.com/)
 ![Pizza](assets/pizza.jpg)  
- 
----
-
-## Documents
-- [Curriculum Vitae](docs/CV_FA.pdf)
 
 ---
 
