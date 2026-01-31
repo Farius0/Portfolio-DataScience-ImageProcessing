@@ -1,4 +1,4 @@
-# Portfolio – Data Science & Image Processing
+# Portfolio -- Data Science & Image Processing
 
 Welcome to my GitHub portfolio.
 
@@ -62,7 +62,7 @@ Verified credentials and official transcripts:
 
 ## Flagship Projects
 
-### [ND Project – Image Processing & Segmentation](https://github.com/Farius0/ND_Project-.git)
+### [ND Project -- Image Processing & Segmentation](https://github.com/Farius0/ND_Project-.git)
 ![ND Project](assets/nd_project.png)
 
 Development of an ND-ready pipeline for processing, analysis, and segmentation of medical LC-OCT images and multidimensional data.
@@ -72,7 +72,7 @@ Development of an ND-ready pipeline for processing, analysis, and segmentation o
 
 ### [Estimation and Characterization of Motion in Medical Imaging](https://github.com/Farius0/Analyse_Imagerie_Medicale.git)
 ![Mouvement](assets/mouvement.gif)   
-Implementation of classical motion estimation techniques (Horn–Schunck, PCA) applied to medical image sequences.
+Implementation of classical motion estimation techniques (Horn--Schunck, PCA) applied to medical image sequences.
 - Vector field analysis and regularization
 - Visualization of motion fields
 
@@ -98,7 +98,7 @@ Exploration of supervised and unsupervised machine learning models:
  
 - [Convex Optimization & Optimal Transport (UB):](https://github.com/Farius0/Optimisations.git) 
 
-- [FIFA Data Analysis (2015–2022):](https://github.com/Farius0/FiFA-2015_2022.git)
+- [FIFA Data Analysis (2015--2022):](https://github.com/Farius0/FiFA-2015_2022.git)
 
 - [Bachelor’s and Master’s Theses (ENEAM):](https://github.com/Farius0/Memoires.git)  
  
@@ -114,7 +114,7 @@ Examples:
 - [Hospital Dashboard - Hospital Analysis Dashboard:](https://github.com/Farius0/Formation_Ligne/tree/main/Power%20BI)
 ![Hospital Dashboard](assets/hospital_dashboard_3.gif) 
 
-- [Weather Dashboard – Climate & Air Quality Monitoring:](https://github.com/Farius0/Formation_Ligne/tree/main/Power%20BI/Weather%20Project)
+- [Weather Dashboard -- Climate & Air Quality Monitoring:](https://github.com/Farius0/Formation_Ligne/tree/main/Power%20BI/Weather%20Project)
 ![Weather Dashboard](assets/weather_dashboard.png)  
 
 - [Recipe website (static web project):](https://farius0.github.io/Formation_Ligne/)
