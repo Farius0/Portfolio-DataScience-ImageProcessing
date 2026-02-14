@@ -111,6 +111,9 @@ Exploration of supervised and unsupervised machine learning models:
 
 Examples:
 
+- [Data Warehouse Project - Architecture (Bronze → Silver → Gold)](https://github.com/Farius0/Formation_Ligne/tree/main/Data%20Warehouse%20Project)
+![Data Warehouse](assets/architecture.webp)
+
 - [Hospital Dashboard - Hospital Analysis Dashboard:](https://github.com/Farius0/Formation_Ligne/tree/main/Power%20BI)
 ![Hospital Dashboard](assets/hospital_dashboard_3.gif) 
 
