@@ -132,3 +132,7 @@ Examples:
 - Professional website: [Link](https://fariusaina.com) 
 - LinkedIn: [Farius Aina](https://linkedin.com/in/farius-a-716b69244)
 - Email: ainau***@gmail.com  
+
+---
+
+⭐ If you find this repository useful, feel free to star it.
