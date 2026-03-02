@@ -1,62 +1,36 @@
-# Portfolio -- Data Science & Image Processing
+# Data Science, Deep Learning & Image Processing
 
-Welcome to my GitHub portfolio.
+This portfolio focuses on computational modeling, deep learning systems, and multidimensional image processing.
 
-I explore data from multiple angles, at the intersection of analytics, applied machine learning, and image processing.
-
-What drives me is turning complex data into structured, usable insights, whether in public-sector analytics, industrial innovation, or applied research contexts.
-
-This portfolio brings together academic, professional, and personal projects that reflect how I approach data: understanding it deeply, experimenting thoughtfully, and building solutions that are robust, documented, and reusable.
-
-Rather than focusing on a single role or title, this space reflects my curiosity, my technical craftsmanship, and my ongoing journey through data-driven problem solving.
+The objective is to design robust analytical and learning-based pipelines capable of extracting structure from complex data, with strong emphasis on imaging and high-dimensional modeling.
 
 ---
 
-## Core Technical Skills
-
-### Data Science & Machine Learning
-- Supervised and unsupervised learning (regression, classification, clustering)
-- Feature engineering and model evaluation
-- Neural networks (CNNs, basic deep learning pipelines)
+## Core Domains
 
 ### Image Processing & Medical Imaging
-- Image segmentation, denoising, artifact removal
+
+- Image segmentation & denoising
+- Motion estimation
 - Multidimensional (2D / 3D / ND) image analysis
-- Medical imaging applications (LC-OCT)
+- Biomedical imaging applications (LC-OCT)
+- Optimization-based modeling
 
-### Data Analysis & Visualization
-- Data exploration and analysis with SQL and Python
-- Dashboards and reporting: Power BI, Tableau
-- Advanced Excel for data cleaning and analysis
+### Deep Learning Systems
 
-### Programming & Tools
-- Python, R, SQL, JavaScript
-- NumPy, Pandas, PyTorch, Scikit-learn
-- Git, VS Code, Jupyter, BigQuery
+- Convolutional Neural Networks (CNNs)
+- Feature extraction architectures
+- Neural-network-based regularization
+- Model validation & evaluation pipelines
+- PyTorch-based implementations
 
----
+### Data Science & Statistical Modeling
 
-## Certifications & Professional Credentials
-
-### Data Science & Analytics
-- Google Data Analytics Professional Certificate
-- Data Science & Machine Learning Specialization
-
-### Cloud, BI & Data Platforms
-- Microsoft Azure AZ-900 (Fundamentals)
-- DP-100, PL-300 (in progress)
-
-### Programming & Development
-- Python Developer Certification
-- SQL, Excel, Power BI Certifications
-- Full Stack Development (HTML, CSS, JavaScript, React, TypeScript)
-
-Verified credentials and official transcripts:
-- Coursera: https://www.coursera.org/account/accomplishments/specialization/6VYEFQ18FBXP  
-- Google Skills: https://www.skills.google/public_profiles/76dbfaca-d7cf-48d5-bc8e-22374b0538f6  
-- Microsoft Learn: https://learn.microsoft.com/fr-fr/users/fariusaina-8780/transcript/dw2g1i62wmn5rn2  
-- Credly: https://www.credly.com/users/farius-aina
-- More: https://github.com/Farius0/Formation_Ligne/tree/main/Certificates%20and%20Course%20Completions
+- Supervised & unsupervised learning
+- Regression & classification
+- Clustering & dimensionality reduction
+- Time-series analysis
+- Feature engineering workflows
 
 ---
 
@@ -78,11 +52,11 @@ Implementation of classical motion estimation techniques (Horn--Schunck, PCA) ap
 
 ### [Learning Convex Regularization Functions](https://github.com/radiama/projet-M2-image-.git)
 ![Régularisation](assets/regul.png) 
-Collaborative academic project in numerical optimization.
+Research-oriented project combining numerical optimization and neural network modeling.
 - Application to inverse problems
 - Comparison between classical models and neural network-based approaches
 
-### [Machine Learning Models (University Projects)](https://github.com/Farius0/Machine_Deep_Learning.git)
+### [Machine Learning Models](https://github.com/Farius0/Machine_Deep_Learning.git)
 ![Machine Learning](assets/ml.png) 
 
 Exploration of supervised and unsupervised machine learning models:
@@ -92,46 +66,38 @@ Exploration of supervised and unsupervised machine learning models:
 
 ---
 
-## Academic & Applied Projects
+## Continuous Development
 
-- [Image and Signal Processing Practical Works (UB):](https://github.com/Farius0/TPs_Image_Signal.git)  
- 
-- [Convex Optimization & Optimal Transport (UB):](https://github.com/Farius0/Optimisations.git) 
+Additional structured learning projects and technical explorations are
+available in:
 
-- [FIFA Data Analysis (2015--2022):](https://github.com/Farius0/FiFA-2015_2022.git)
-
-- [Bachelor’s and Master’s Theses (ENEAM):](https://github.com/Farius0/Memoires.git)  
- 
----
-
-## Continuous Learning & Training Projects
-
-[Online training projects including notebooks, BI reports, and applied exercises:](https://github.com/Farius0/Formation_Ligne.git) 
-![Formation](assets/formation.png)
-
-Examples:
-
-- [Data Warehouse Project - Architecture (Bronze → Silver → Gold)](https://github.com/Farius0/Formation_Ligne/tree/main/Data%20Warehouse%20Project)
-![Data Warehouse](assets/architecture.webp)
-
-- [Hospital Dashboard - Hospital Analysis Dashboard:](https://github.com/Farius0/Formation_Ligne/tree/main/Power%20BI)
-![Hospital Dashboard](assets/hospital_dashboard_3.gif) 
-
-- [Weather Dashboard -- Climate & Air Quality Monitoring:](https://github.com/Farius0/Formation_Ligne/tree/main/Power%20BI/Weather%20Project)
-![Weather Dashboard](assets/weather_dashboard.png)  
-
-- [Recipe website (static web project):](https://farius0.github.io/Formation_Ligne/)
-![Chocolocate cake](assets/cake.jpg)   
-
-- [Pizza menu web application (Django):](https://fariusaina.pythonanywhere.com/)
-![Pizza](assets/pizza.jpg)  
+👉 https://github.com/Farius0/Formation_Ligne
 
 ---
+
+## Certifications & Professional Credentials
+
+### Data Science & Machine Learning
+- Google Data Analytics Professional Certificate
+- Data Science & Machine Learning Specialization
+
+### Cloud & AI Foundations
+- Microsoft Azure AZ-900 (Fundamentals)
+- DP-100 (Azure Data Scientist Associate -- in progress)
+
+### Programming & Development
+- Python Developer Certification
+
+Verified credentials and official transcripts:
+- [Coursera](https://www.coursera.org/account/accomplishments/specialization/6VYEFQ18FBXP)  
+- [Google Skills](https://www.skills.google/public_profiles/76dbfaca-d7cf-48d5-bc8e-22374b0538f6)  
+- [Microsoft Learn](https://learn.microsoft.com/fr-fr/users/fariusaina-8780/transcript/dw2g1i62wmn5rn2)  
+- [Credly](https://www.credly.com/users/farius-aina)
 
 ## Contact
 - Professional website: [Link](https://fariusaina.com) 
 - LinkedIn: [Farius Aina](https://linkedin.com/in/farius-a-716b69244)
-- Email: ainau***@gmail.com  
+ 
 
 ---
 
